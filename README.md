@@ -31,5 +31,3 @@ Predicting energy consumption is crucial for utility companies, energy traders, 
 - **GridSearchCV** for systematic parameter tuning
 - **Cross-validation** with 5 folds
 - **Metrics**: RMSE and R² score
-
-## 📈 Results
